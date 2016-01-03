@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DivingLog>
+	<Number id="1">
+		<Date>2015/10/13</Date>
+		<Place>富戸ヨコバマ</Place>
+		<StartTime>11:43</StartTime>
+		<EndTime>12:16</EndTime>
+		<StartBar>190</StartBar>
+		<EndBar>100</EndBar>
+		<MaxDepth>7.1</MaxDepth>
+		<AveDepth>7.1</AveDepth>
+		<AirTemp>23</AirTemp>
+		<WaterTemp>21</WaterTemp>
+		<Transparent>20</Transparent>
+		<Weight>8</Weight>
+		<Suit>Dry</Suit>
+		<Comment>OW1</Comment>
+	</Number>
+	<Number id="2">
+		<Date>2015/10/13</Date>
+		<Place>富戸ヨコバマ</Place>
+		<StartTime>14:04</StartTime>
+		<EndTime>14:48</EndTime>
+		<StartBar>210</StartBar>
+		<EndBar>70</EndBar>
+		<MaxDepth>7.9</MaxDepth>
+		<AirTemp>23</AirTemp>
+		<WaterTemp>21</WaterTemp>
+		<Transparent>20</Transparent>
+		<Weight>8</Weight>
+		<Suit>Dry</Suit>
+		<Comment>OW2</Comment>
+	</Number>
+
+	<Number id="3">
+		<Date>2015/10/14</Date>
+		<Place>富戸ヨコバマ</Place>
+		<StartTime>10:56</StartTime>
+		<EndTime>11:36</EndTime>
+		<StartBar>180</StartBar>
+		<EndBar>70</EndBar>
+		<MaxDepth>7.0</MaxDepth>
+		<AveDepth>4.9</AveDepth>
+		<AirTemp>23</AirTemp>
+		<WaterTemp>21</WaterTemp>
+		<Transparent>15</Transparent>
+		<Weight>8</Weight>
+		<Suit>Dry</Suit>
+		<Comment>OW3</Comment>
+	</Number>
+
+	<Number id="4">
+		<Date>2015/10/14</Date>
+		<Place>富戸ヨコバマ</Place>
+		<StartTime>13:33</StartTime>
+		<EndTime>14:02</EndTime>
+		<StartBar>200</StartBar>
+		<EndBar>100</EndBar>
+		<MaxDepth>7.3</MaxDepth>
+		<AveDepth>4.8</AveDepth>
+		<AirTemp>23</AirTemp>
+		<WaterTemp>22</WaterTemp>
+		<Transparent>15</Transparent>
+		<Weight>8</Weight>
+		<Suit>Dry</Suit>
+		<Comment>OW4</Comment>
+	</Number>
+
+	<Number id="5">
+		<Date>2015/11/3</Date>
+		<Place>富戸ヨコバマ</Place>
+		<StartTime>10:55</StartTime>
+		<EndTime>11:30</EndTime>
+		<StartBar>190</StartBar>
+		<EndBar>70</EndBar>
+		<MaxDepth>11.4</MaxDepth>
+		<AveDepth>7.4</AveDepth>
+		<AirTemp>20</AirTemp>
+		<WaterTemp>19</WaterTemp>
+		<Transparent>20</Transparent>
+		<Weight>8</Weight>
+		<Suit>Dry</Suit>
+		<Comment>DrySP1</Comment>
+	</Number>
+
+	<Number id="6">
+		<Date>2015/11/3</Date>
+		<Place>富戸ヨコバマ</Place>
+		<StartTime>12:52</StartTime>
+		<EndTime>13:30</EndTime>
+		<StartBar>190</StartBar>
+		<EndBar>80</EndBar>
+		<MaxDepth>8.4</MaxDepth>
+		<AveDepth>5.9</AveDepth>
+		<AirTemp>20</AirTemp>
+		<WaterTemp>20</WaterTemp>
+		<Transparent>20</Transparent>
+		<Weight>8</Weight>
+		<Suit>Dry</Suit>
+		<Comment>DrySP2</Comment>
+	</Number>
+
+	<Number id="7">
+		<Date>2015/11/22</Date>
+		<Place>赤沢</Place>
+		<StartTime>11:01</StartTime>
+		<EndTime>11:46</EndTime>
+		<StartBar>190</StartBar>
+		<EndBar>80</EndBar>
+		<MaxDepth>6.6</MaxDepth>
+		<AveDepth>3.9</AveDepth>
+		<AirTemp>16</AirTemp>
+		<WaterTemp>19</WaterTemp>
+		<Transparent>5</Transparent>
+		<Weight>8</Weight>
+		<Suit>Dry</Suit>
+		<Comment></Comment>
+	</Number>
+
+	<Number id="8">
+		<Date>2015/11/22</Date>
+		<Place>赤沢</Place>
+		<StartTime>13:24</StartTime>
+		<EndTime>14:01</EndTime>
+		<StartBar>190</StartBar>
+		<EndBar>100</EndBar>
+		<MaxDepth>7.1</MaxDepth>
+		<AveDepth>4.6</AveDepth>
+		<AirTemp>16</AirTemp>
+		<WaterTemp>19</WaterTemp>
+		<Transparent>5</Transparent>
+		<Weight>8</Weight>
+		<Suit>Dry</Suit>
+		<Comment></Comment>
+	</Number>
+
+	<Number id="9">
+		<Date>2015/12/19</Date>
+		<Place>富戸ヨコバマ</Place>
+		<StartTime>11:10</StartTime>
+		<EndTime>11:43</EndTime>
+		<StartBar>190</StartBar>
+		<EndBar>110</EndBar>
+		<MaxDepth>10.6</MaxDepth>
+		<AveDepth>7.3</AveDepth>
+		<AirTemp>13</AirTemp>
+		<WaterTemp>18</WaterTemp>
+		<Transparent>20</Transparent>
+		<Weight>8</Weight>
+		<Suit>Dry</Suit>
+		<Comment>BubbleRing</Comment>
+	</Number>
+
+	<Number id="10">
+		<Date>2015/12/19</Date>
+		<Place>富戸ヨコバマ</Place>
+		<StartTime>13:19</StartTime>
+		<EndTime>13:55</EndTime>
+		<StartBar>200</StartBar>
+		<EndBar>100</EndBar>
+		<MaxDepth>12.4</MaxDepth>
+		<AveDepth>8.3</AveDepth>
+		<AirTemp>13</AirTemp>
+		<WaterTemp>18</WaterTemp>
+		<Transparent>20</Transparent>
+		<Weight>8</Weight>
+		<Suit>Dry</Suit>
+		<Comment>BubbleRing</Comment>
+	</Number>
+
+	<Number id="11">
+		<Date>2015/12/20</Date>
+		<Place>富戸ヨコバマ</Place>
+		<StartTime>11:14</StartTime>
+		<EndTime>11:51</EndTime>
+		<StartBar>180</StartBar>
+		<EndBar>80</EndBar>
+		<MaxDepth>12.6</MaxDepth>
+		<AveDepth>8.4</AveDepth>
+		<AirTemp>13</AirTemp>
+		<WaterTemp>18</WaterTemp>
+		<Transparent>20</Transparent>
+		<Weight>8</Weight>
+		<Suit>Dry</Suit>
+		<Comment></Comment>
+	</Number>
+
+	<Number id="12">
+		<Date>2015/12/20</Date>
+		<Place>富戸ヨコバマ</Place>
+		<StartTime>13:34</StartTime>
+		<EndTime>14:14</EndTime>
+		<StartBar>180</StartBar>
+		<EndBar>90</EndBar>
+		<MaxDepth>8.8</MaxDepth>
+		<AveDepth>6.7</AveDepth>
+		<AirTemp>13</AirTemp>
+		<WaterTemp>18</WaterTemp>
+		<Transparent>20</Transparent>
+		<Weight>8</Weight>
+		<Suit>Dry</Suit>
+		<Comment></Comment>
+	</Number>
+
+	<Number id="13">
+		<Date>2015/12/30</Date>
+		<Place>伊豆大島秋の浜</Place>
+		<StartTime>13:17</StartTime>
+		<EndTime>14:09</EndTime>
+		<StartBar>180</StartBar>
+		<EndBar>80</EndBar>
+		<MaxDepth>14.1</MaxDepth>
+		<AveDepth>6.0</AveDepth>
+		<AirTemp>13</AirTemp>
+		<WaterTemp>18</WaterTemp>
+		<Transparent>20</Transparent>
+		<Weight>8</Weight>
+		<Suit>Dry</Suit>
+		<Comment>AOW PPB</Comment>
+	</Number>
+
+	<Number id="14">
+		<Date>2015/12/30</Date>
+		<Place>伊豆大島秋の浜</Place>
+		<StartTime>15:48</StartTime>
+		<EndTime>16:40</EndTime>
+		<StartBar>180</StartBar>
+		<EndBar>60</EndBar>
+		<MaxDepth>15.9</MaxDepth>
+		<AveDepth>8.6</AveDepth>
+		<AirTemp>13</AirTemp>
+		<WaterTemp>18</WaterTemp>
+		<Transparent>20</Transparent>
+		<Weight>8</Weight>
+		<Suit>Dry</Suit>
+		<Comment>AOW Naturalist</Comment>
+	</Number>
+
+	<Number id="15">
+		<Date>2015/12/30</Date>
+		<Place>伊豆大島秋の浜</Place>
+		<StartTime>20:17</StartTime>
+		<EndTime>20:55</EndTime>
+		<StartBar>170</StartBar>
+		<EndBar>120</EndBar>
+		<MaxDepth>6.9</MaxDepth>
+		<AveDepth>5.1</AveDepth>
+		<AirTemp>10</AirTemp>
+		<WaterTemp>18</WaterTemp>
+		<Transparent>1</Transparent>
+		<Weight>8</Weight>
+		<Suit>Dry</Suit>
+		<Comment>AOW Night</Comment>
+	</Number>
+
+	<Number id="16">
+		<Date>2015/12/31</Date>
+		<Place>伊豆大島秋の浜</Place>
+		<StartTime>9:39</StartTime>
+		<EndTime>10:25</EndTime>
+		<StartBar>170</StartBar>
+		<EndBar>50</EndBar>
+		<MaxDepth>17.6</MaxDepth>
+		<AveDepth>9.9</AveDepth>
+		<AirTemp>13</AirTemp>
+		<WaterTemp>18</WaterTemp>
+		<Transparent>20</Transparent>
+		<Weight>8</Weight>
+		<Suit>Dry</Suit>
+		<Comment>AOW Deep</Comment>
+	</Number>
+
+	<Number id="17">
+		<Date>2015/12/31</Date>
+		<Place>伊豆大島秋の浜</Place>
+		<StartTime>12:02</StartTime>
+		<EndTime>12:48</EndTime>
+		<StartBar>180</StartBar>
+		<EndBar>70</EndBar>
+		<MaxDepth>16.0</MaxDepth>
+		<AveDepth>9.5</AveDepth>
+		<AirTemp>13</AirTemp>
+		<WaterTemp>18</WaterTemp>
+		<Transparent>20</Transparent>
+		<Weight>8</Weight>
+		<Suit>Dry</Suit>
+		<Comment>AOW Navigation</Comment>
+	</Number>
+
+	<Number id="18">
+		<Date>2015/12/31</Date>
+		<Place>伊豆大島秋の浜</Place>
+		<StartTime>23:34</StartTime>
+		<EndTime>24:20</EndTime>
+		<StartBar>180</StartBar>
+		<EndBar>80</EndBar>
+		<MaxDepth>6.2</MaxDepth>
+		<AveDepth>4.3</AveDepth>
+		<AirTemp>8</AirTemp>
+		<WaterTemp>18</WaterTemp>
+		<Transparent>1</Transparent>
+		<Weight>8</Weight>
+		<Suit>Dry</Suit>
+		<Comment>New Year Dive</Comment>
+	</Number>
+
+	<Number id="19">
+		<Date>2016/1/1</Date>
+		<Place>伊豆大島秋の浜</Place>
+		<StartTime>10:12</StartTime>
+		<EndTime>11:01</EndTime>
+		<StartBar>180</StartBar>
+		<EndBar>70</EndBar>
+		<MaxDepth>19.1</MaxDepth>
+		<AveDepth>9.6</AveDepth>
+		<AirTemp>13</AirTemp>
+		<WaterTemp>18</WaterTemp>
+		<Transparent>20</Transparent>
+		<Weight>8</Weight>
+		<Suit>Dry</Suit>
+		<Comment>2016 First Dive</Comment>
+	</Number>
+</DivingLog>
